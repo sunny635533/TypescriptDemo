@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/337587de8c13868283993bfacdcdd1a0f3291e7f/core-decorators/index.d.ts",
+    "raw": "registry:dt/core-decorators#0.10.0+20160428043022",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/337587de8c13868283993bfacdcdd1a0f3291e7f/core-decorators/index.d.ts"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    // "allowUnusedLabels":false,//不报告未使用的标签错误。
+    "target": "es6",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "experimentalDecorators": true,
+    "noUnusedParameters": true,    //若有未使用的参数则抛错。
+    "strictNullChecks": true,
+    "skipLibCheck": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "baseUrl": "./src-tsx",
+    "outDir": "../.TypeScriptDemo.out",
+    // "outDir": "./",
+    "paths": {
+      "tf-*": [
+        "*"
+      ],
+      "*": [
+        "MUST_PREFIX_WITH_PROJECT_NAME/*"
+      ]
+    }
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

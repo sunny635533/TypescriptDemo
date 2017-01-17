@@ -1,0 +1,10 @@
+{
+  "name": "TypeScriptDemo",
+  "dependencies": {
+    "core-decorators": "registry:dt/core-decorators#0.10.0+20160428043022",
+    "react": "registry:dt/react#15.0.0+20170111020654"
+  },
+  "globalDependencies": {
+    "whatwg-fetch": "registry:dt/whatwg-fetch#0.0.0+20161120230953"
+  }
+}
